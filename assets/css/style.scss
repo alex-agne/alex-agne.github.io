@@ -1,0 +1,38 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  font-family: Arial, sans-serif;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #f5f5f5;
+  padding: 15px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #333;
+  padding: 5px 10px;
+}
+
+main {
+  padding: 20px;
+}
+
+h2 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+img {
+  max-width: 400px;
+  margin: 10px;
+}
+
+/* Add green accents and electrification theme styles here */
